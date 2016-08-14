@@ -20,6 +20,7 @@ body {
 	font-size: 14px;
 	color: #666;
 	background-size: auto 100%;
+	overflow:hidden;
 }
 nav {
 	width: 100%;
